@@ -10,7 +10,7 @@ Predicting sales in e-commerce is a critical aspect of managing an online retail
 - External Factors: Including economic indicators, competitor actions, and market trends.
 
 # ⛳️ Project Objectives 
-In this project, through utilising the transactional dataset from a UK-based reatailer available at the UCI Machine Learning Respository to build accurate sales forecasting models. 
+In this project, through utilising the transactional dataset from a UK-based reatailer available at the [UCI Machine Learning Respository](https://archive.ics.uci.edu/dataset/352/online+retail) to build accurate sales forecasting models. 
 
 Aim to identify key trends, seasonal patterns, and other factors that influence sales. Modelling the data through Linear Regression, Decision Tree Regression and Random Forest to select the optimal model for sales foresting. 
 
